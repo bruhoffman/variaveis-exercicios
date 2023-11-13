@@ -21,7 +21,7 @@ const perguntaA = "Você está usando uma roupa azul hoje?";
 const respostaA = prompt(perguntaA);
 
 ```
-e) Altere o console para imprimir a pergunta e a resposta. 
+**e)** Altere o console para imprimir a pergunta e a resposta.
 
 ```
 Você está usando uma roupa azul hoje? - SIM
